@@ -1,0 +1,30 @@
+# AWS 관련
+boto3
+aws-session
+aws-utils
+
+# Langchain 관련
+langchain
+langchain-aws
+langchain-chroma
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Database 관련
+chromadb
+chroma-hnswlib
+pysqlite3-binary
+
+# Streamlit
+streamlit
+
+# 유틸리티
+python-dotenv
+pytz
+datetime
+
+# 기타 의존성
+typing-extensions
+typing-inspect
+pydantic
